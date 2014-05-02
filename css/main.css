@@ -8,7 +8,7 @@ body {
     font-size:              12pt;
     margin:                 0 auto;
     max-width:              800px;
-    min-width:              350px;
+    min-width:              500px;
     width:                  80%;
 }
 
@@ -194,7 +194,7 @@ th {
     max-width:              600px;
     padding:                1em 2em;
     text-align:             center;
-    width:                  40%;
+    width:                  80%;
 }
 
 #lbsingle h3, #lbmain h3 {
